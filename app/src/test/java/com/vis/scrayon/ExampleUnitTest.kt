@@ -1,4 +1,4 @@
-package com.vis.drawingapp
+package com.vis.scrayon
 
 import org.junit.Test
 

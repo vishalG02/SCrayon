@@ -1,4 +1,4 @@
-package com.vis.drawingapp
+package com.vis.scrayon
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
